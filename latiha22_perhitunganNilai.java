@@ -3,7 +3,7 @@ package pertemuan6;
 
 import java.util.Scanner;
 
-public class latiha22_perhitunganNilai {
+public class latiha22_perhitunganlingkaran {
   
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
